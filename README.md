@@ -1,5 +1,7 @@
 # python-lustre-utils
 
+[![Join the chat at https://gitter.im/calculquebec/python-lustre-utils](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/calculquebec/python-lustre-utils?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Summary
 lustre-utils is a Python library to interface with Lustre through 
 its /proc interface.  It is at an early stage of development and 
